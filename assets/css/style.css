@@ -767,8 +767,13 @@ section {
   box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
 }
 .services .iconbox-blue i {
-  color: #6db33f;
+  color: #3b9ad9;
 }
+
+.services .iconbox-green i {
+  color: #6cb72c;
+}
+
 .services .iconbox-blue:hover .icon i {
   /*color: #fff;*/
 }
